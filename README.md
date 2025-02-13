@@ -1,1 +1,1 @@
-# -lf-3pi-template
+# lf-3pi-template
